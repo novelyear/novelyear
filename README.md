@@ -19,7 +19,7 @@
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-
+![](https://github.com/novelyear/novelyear/blob/output/github-contribution-grid-snake.svg)
 
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
