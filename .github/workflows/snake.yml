@@ -14,11 +14,11 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - uses: actions/checkout@v3  # 使用更新的 checkout 版本
+      - uses: actions/checkout@v3  # 使用最新的 checkout 版本
       - name: Set up Node.js
-        uses: actions/setup-node@v3  # 设置 Node.js 16
+        uses: actions/setup-node@v3  # 设置 Node.js 20
         with:
-          node-version: '16'
+          node-version: '20'
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
