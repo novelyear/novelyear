@@ -20,18 +20,8 @@
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
-<picture>
 
-</picture>
 
-</div>
-
-<div align="center" >
-<!--  skill badge 技能徽章 -->
-💪 技术栈
-<!-- ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) -->
-<!-- ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) -->
-<!-- ![Shell Badge](https://img.shields.io/badge/Shell-41CD52?logo=shell&logoColor=fff&style=flat) -->
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -42,8 +32,7 @@
 ![Java Badge](https://img.shields.io/badge/JAVA-092E20?logo=java&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=fff&style=flat)
 🧰 常用的工具
-<!-- ![PyCharm Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=pycharm&logoColor=fff&style=flat) -->
-
+![PyCharm Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=pycharm&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![IDEA Badge](https://img.shields.io/badge/IDEA-007ACC?logo=idea&logoColor=fff&style=flat)
