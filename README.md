@@ -33,8 +33,6 @@
 
 ## 今年汇总 ✨
 <div>
-<img align="" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanhua&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<br>
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novelyear&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 </div>
